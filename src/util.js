@@ -5,17 +5,17 @@ import  React from "react";
 const casesTypeColors = {
    cases: {
        hex: "#CC1034",
-       multiplier: 800,
+       multiplier: 300,
    },
    recovered: {
-        hex: "#F4D03F",
-        multiplier: 1200,
+        hex: "#bada55",
+        multiplier: 400,
     },
    deaths: {
         hex: "#00FFFF",
         //rgb: "rgb(251, 68, 67)",
         //half_op: "rgba(251, 68, 67, 0.5)",
-        multiplier: 2000,
+        multiplier: 1000,
     }, 
 
 };
